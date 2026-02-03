@@ -1,0 +1,17 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "70bfxWSZSaslAuM4zMTRv",
+      "name": "test",
+      "value": "#a37b7b"
+    },
+    {
+      "id": "-OJi0-ApzPfuEExWPg2OR",
+      "name": "test 2",
+      "value": "#f42525"
+    }
+  ],
+  "fileColors": []
+}

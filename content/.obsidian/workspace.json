@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "0a17df84d9e1cf1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a67302d145fe8ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9654143d4dbe295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test folder/Test note.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Test note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db8194624b8c4808",
+    "type": "split",
+    "children": [
+      {
+        "id": "50eec6a102086d8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a900d843f4cd24e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4cc6fb7596e7d4d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "bfac73471245535b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aeffdc15b577a808",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "right": {
+    "id": "bcbe879cd5172342",
+    "type": "split",
+    "children": [
+      {
+        "id": "18808101872273a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dcec2dfc4e0f4d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Test/test of test/test.1/test aaaa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for test aaaa"
+            }
+          },
+          {
+            "id": "2fd129c12888a91f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "7c519d696890c41d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b41ee0f2be041aa0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "9b455576426bb905",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "12412dc7176426bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Finance/Web3/Learn/RD test.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of RD test"
+            }
+          },
+          {
+            "id": "c12147ac01df7f92",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "361f02ae3a65b1df",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "18e44ffb326fde88",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Test/test of test/test.1/test aaaa.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f9654143d4dbe295",
+  "lastOpenFiles": [
+    "index.md",
+    "test note 2.md",
+    "Test folder/Test note.md",
+    "Test folder/test folder 2",
+    "features/formatting.md",
+    "features/links.md",
+    "Job/ELX/VN - Setup.md",
+    "Finance/Web3/BiTrade/Backtest/Backtest structure.md",
+    "Finance/Web3/BiTrade/Backtest/Backtest - Report 3d (Jan 28-31).md",
+    "Finance/Web3/BiTrade/Structure.md",
+    "Job/Other/CAT - Plan.md",
+    "Finance/Web3/BiTrade/Backtest/Backtest - Report 7d.md",
+    "Job/ELX/VN Regulatory Summary.md",
+    "Job/ELX/VN Product List To exclude.md",
+    "Job/ELX/VN Regulatory - Note from Pub Feb 2026.md",
+    "Learn/N8N.md",
+    "Job/ELX/VN SQR.md",
+    "W/Test/test content.md",
+    "W/Test/test update time.md",
+    "W/Test/test code 2.md",
+    "W/Test/test Kanban.md",
+    "W/Test/test code.md",
+    "Note/Shopping/Omoda c5.md",
+    "test.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled Kanban.md",
+    "W/Test/test canvas.canvas",
+    "W/Test/Untitled",
+    "Untitled",
+    "W",
+    "Excalidraw",
+    "base test.base",
+    "Astrological Peak & Low Timeline (2010-2035).png",
+    "Untitled.base",
+    "Pasted image 20260202104101.png",
+    "Untitled 1.base",
+    "Health/Skin",
+    "Health/Health",
+    "Draw/Canvas/test canvas.canvas",
+    "Test5/Test/Untitled 1.canvas"
+  ]
+}

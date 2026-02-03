@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "0e8e937c134c7165",
+    "type": "split",
+    "children": [
+      {
+        "id": "89561f1e7e291b91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4963c5114abd4993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/Shopping/Shop - Car.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Shop - Car"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66386086e1eebb89",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "893bf77c56ffd6cb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "f3b87c7233dfcaa5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "97c6bc12a5612ec2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "30604c4cee330549",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "509769d5eae07bbd",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "2a03ea89c25ac1d3",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "file-tree-view"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "048e653c75bb49d7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "43e86305596f53e3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Note/Shopping/Shop - Car.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "9ae7ef9679ec18e7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "d0503b7e6ff4b5fe",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "27b05be710934c74",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4963c5114abd4993",
+  "lastOpenFiles": [
+    "Finance/Web3/BiTrade/Propose.md",
+    "Finance/Real Estate/HCM - Apartment.md",
+    "Finance/Web3/Learn/Chain - Comparision Decentralize.md",
+    "Finance/Web3/Learn/Gen - Prediction 2026.md",
+    "Config/Color.md",
+    "Draw/Canvas/test canvas.canvas",
+    "Test/test Kanban.md",
+    "Test/test of test/test.1/test aaaa.md",
+    "Draw/Excalidraw/test for drawing.md",
+    "Config/2025-12-23.md",
+    "Untitled.base",
+    "Test/how to install test.md",
+    "test Kanban.md",
+    "what is.md",
+    "Untitled.md",
+    "test.md",
+    "test canvas.canvas",
+    "how to install test.md",
+    "2025-12-25.md",
+    "2025-12-26.md",
+    "Untitled 1.canvas",
+    "2025-12-23.md",
+    "Config",
+    "Test",
+    "Untitled"
+  ]
+}
