@@ -2,9 +2,9 @@
 title: Welcome to My Quartz Garden
 ---
 
-# Hello World!
+# Hi, I'm Khang!
 
-This is my digital garden, built with [Quartz 4](https://quartz.jzhao.xyz/).
+This is my personal blog and digital garden, built with [Quartz 4](https://quartz.jzhao.xyz/).
 
 It is currently under construction. 🚧
 
